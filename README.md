@@ -98,6 +98,9 @@ body::before {
 <a href="2015_22.JPG" class="preview"><img src="2015_22.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2015_23.JPG" class="preview"><img src="2015_23.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2015_24.JPG" class="preview"><img src="2015_24.JPG" alt="サンプル画像" width="180" /></a>
+<h2>動画</h2>
+ <iframe src="https://www.youtube.com/watch?v=UvOvUs8GoAc" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+ <iframe src="https://www.youtube.com/watch?v=NC0FhvxvWfk" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 <br><br>
