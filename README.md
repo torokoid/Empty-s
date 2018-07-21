@@ -42,7 +42,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/Empty-s/2015_24.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/Empty-s/2016_02.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -54,7 +54,7 @@ body::before {
 </head>
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! Empty's & Lepression's !!!</marquee></span></h1>
-<p align="right">2015、忘年会</p>
+<p align="right">2016、河口湖</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
@@ -66,8 +66,9 @@ body::before {
 <a href="2016_02.JPG" class="preview"><img src="2016_02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2016_03.JPG" class="preview"><img src="2016_03.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2016_04.JPG" class="preview"><img src="2016_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2016_05.JPG" class="preview"><img src="2016_05.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2016_06.JPG" class="preview"><img src="2016_06.JPG" alt="サンプル画像" width="180" /></a>
-
+	
 </div>
 
 <br><br>
@@ -81,6 +82,7 @@ body::before {
 <a href="2015_02.JPG" class="preview"><img src="2015_02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2015_03.JPG" class="preview"><img src="2015_03.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2015_04.JPG" class="preview"><img src="2015_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_05.JPG" class="preview"><img src="2015_05.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2015_01.JPG" class="preview"><img src="2015_01.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2015_07.JPG" class="preview"><img src="2015_07.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2015_08.JPG" class="preview"><img src="2015_08.JPG" alt="サンプル画像" width="180" /></a>
@@ -111,6 +113,36 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 </div>
 
 <br><br>
+<br><br><br><br><br>
+
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2013年11月30日、熱海 !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+<a href="2013_01.JPG" class="preview"><img src="2013_01.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="2013_02.JPG" class="preview"><img src="2013_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_03.JPG" class="preview"><img src="2013_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_04.JPG" class="preview"><img src="2013_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_05.JPG" class="preview"><img src="2013_05.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_06.JPG" class="preview"><img src="2013_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_07.JPG" class="preview"><img src="2013_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_08.JPG" class="preview"><img src="2013_08.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_09.JPG" class="preview"><img src="2013_09.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_10.JPG" class="preview"><img src="2013_10.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_11.JPG" class="preview"><img src="2013_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_12.JPG" class="preview"><img src="2013_12.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_13.JPG" class="preview"><img src="2013_13.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_14.JPG" class="preview"><img src="2013_14.JPG" alt="サンプル画像" width="180" /></a>
+
+
+</div>
+
+<br><br>
+
+
+
+
+<br><br><br><br><br>	
 
 
 
