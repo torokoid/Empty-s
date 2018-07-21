@@ -61,7 +61,7 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2016年12月3日、河口湖 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+<h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンで戻れます。</span></h3>
 <a href="2016_01.JPG" class="preview"><img src="2016_01.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="2016_02.JPG" class="preview"><img src="2016_02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2016_03.JPG" class="preview"><img src="2016_03.JPG" alt="サンプル画像" width="180" /></a>
@@ -77,7 +77,7 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2015年11月28日、忘年会 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+<h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンで戻れます。</span></h3>
 <a href="2015_06.JPG" class="preview"><img src="2015_06.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="2015_02.JPG" class="preview"><img src="2015_02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2015_03.JPG" class="preview"><img src="2015_03.JPG" alt="サンプル画像" width="180" /></a>
@@ -118,7 +118,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2013年11月30日、熱海 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+<h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンで戻れます。</span></h3>
 <a href="2013_01.JPG" class="preview"><img src="2013_01.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="2013_02.JPG" class="preview"><img src="2013_02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2013_03.JPG" class="preview"><img src="2013_03.JPG" alt="サンプル画像" width="180" /></a>
