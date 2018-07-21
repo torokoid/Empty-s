@@ -57,6 +57,20 @@ body::before {
 <p align="right">20180420、ひたち海浜公園</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2016年12月3日、河口湖 !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+<a href="2016_01.JPG" class="preview"><img src="2016_01.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="2016_02.JPG" class="preview"><img src="2016_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2016_03.JPG" class="preview"><img src="2016_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2016_04.JPG" class="preview"><img src="2016_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2016_06.JPG" class="preview"><img src="2016_06.JPG" alt="サンプル画像" width="180" /></a>
+
+</div>
+
+<br><br>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2015年11月28日、忘年会 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
