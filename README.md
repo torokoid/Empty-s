@@ -99,8 +99,12 @@ body::before {
 <a href="2015_23.JPG" class="preview"><img src="2015_23.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2015_24.JPG" class="preview"><img src="2015_24.JPG" alt="サンプル画像" width="180" /></a>
 <h2>動画</h2>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=UvOvUs8GoAc
+" target="_blank"><img src="http://img.youtube.com/vi/UvOvUs8GoAc/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<!--	
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/UvOvUs8GoAc/0.jpg)](http://www.youtube.com/watch?v=UvOvUs8GoAc)
-
+-->
  <iframe src="https://www.youtube.com/watch?v=UvOvUs8GoAc" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
  <iframe src="https://www.youtube.com/watch?v=NC0FhvxvWfk" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
