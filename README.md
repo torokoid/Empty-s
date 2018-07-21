@@ -71,6 +71,8 @@ body::before {
 </div>
 
 <br><br>
+<br><br><br><br><br>
+
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2015年11月28日、忘年会 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
