@@ -97,8 +97,8 @@ body::before {
 <a href="2015_17.JPG" class="preview"><img src="2015_17.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2015_18.JPG" class="preview"><img src="2015_18.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2015_19.JPG" class="preview"><img src="2015_19.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_20.JPG" class="preview"><img src="2015_20.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_21.JPG" class="preview"><img src="2015_21.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_20.JPG" class="preview"><img src="2015_20.JPG" alt="サンプル画像" width="110" /></a>
+<a href="2015_21.JPG" class="preview"><img src="2015_21.JPG" alt="サンプル画像" width="110" /></a>
 <a href="2015_22.JPG" class="preview"><img src="2015_22.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2015_23.JPG" class="preview"><img src="2015_23.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2015_24.JPG" class="preview"><img src="2015_24.JPG" alt="サンプル画像" width="180" /></a>
