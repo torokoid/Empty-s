@@ -57,6 +57,30 @@ body::before {
 <p align="right">2015、忘年会</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+	
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2017年12月2日、河口湖 !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンで戻れます。</span></h3>
+<a href="2017_01.JPG" class="preview"><img src="2017_01.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="2017_02.JPG" class="preview"><img src="2017_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_03.JPG" class="preview"><img src="2017_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_04.JPG" class="preview"><img src="2017_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_05.JPG" class="preview"><img src="2017_05.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_06.JPG" class="preview"><img src="2017_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_07.JPG" class="preview"><img src="2017_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_08.JPG" class="preview"><img src="2017_08.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_09.JPG" class="preview"><img src="2017_09.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_10.JPG" class="preview"><img src="2017_10.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_11.JPG" class="preview"><img src="2017_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_12.JPG" class="preview"><img src="2017_12.JPG" alt="サンプル画像" width="360" /></a>
+<a href="2017_13.JPG" class="preview"><img src="2017_13.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_14.JPG" class="preview"><img src="2017_14.JPG" alt="サンプル画像" width="180" /></a>	
+
+</div>
+
+<br><br>
+<br><br><br><br><br>
 
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2016年12月3日、河口湖 !!!</marquee></span></h2>
 <div id="wrap">
