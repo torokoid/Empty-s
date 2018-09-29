@@ -103,7 +103,7 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2015年11月28日、忘年会 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
+<h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。動画は別クリックしてくださいね～( ^^) _U~~</span></h3>
 <a href="2015_06.JPG" data-lightbox="abc"><img src="2015_06.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="2015_02.JPG" data-lightbox="abc"><img src="2015_02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2015_03.JPG" data-lightbox="abc"><img src="2015_03.JPG" alt="サンプル画像" width="180" /></a>
