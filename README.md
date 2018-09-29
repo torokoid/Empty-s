@@ -46,10 +46,9 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
 
-
-
-
 </style> 
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
    
 </head>
 <body>
@@ -61,24 +60,24 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2017年12月2日、河口湖 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンで戻れます。</span></h3>
-<a href="2017_01.JPG" class="preview"><img src="2017_01.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="2017_02.JPG" class="preview"><img src="2017_02.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2017_03.JPG" class="preview"><img src="2017_03.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2017_04.JPG" class="preview"><img src="2017_04.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2017_05.JPG" class="preview"><img src="2017_05.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2017_06.JPG" class="preview"><img src="2017_06.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2017_07.JPG" class="preview"><img src="2017_07.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2017_08.JPG" class="preview"><img src="2017_08.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2017_09.JPG" class="preview"><img src="2017_09.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2017_10.JPG" class="preview"><img src="2017_10.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2017_11.JPG" class="preview"><img src="2017_11.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2017_12.JPG" class="preview"><img src="2017_12.JPG" alt="サンプル画像" width="360" /></a>
-<a href="2017_13.JPG" class="preview"><img src="2017_13.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2017_14.JPG" class="preview"><img src="2017_14.JPG" alt="サンプル画像" width="180" /></a>	
-<a href="2017_15.JPG" class="preview"><img src="2017_15.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2017_16.JPG" class="preview"><img src="2017_16.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2017_17.JPG" class="preview"><img src="2017_17.JPG" alt="サンプル画像" width="180" /></a>
+<h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
+<a href="2017_01.JPG" data-lightbox="abc"><img src="2017_01.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="2017_02.JPG" data-lightbox="abc"><img src="2017_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_03.JPG" data-lightbox="abc"><img src="2017_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_04.JPG" data-lightbox="abc"><img src="2017_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_05.JPG" data-lightbox="abc"><img src="2017_05.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_06.JPG" data-lightbox="abc"><img src="2017_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_07.JPG" data-lightbox="abc"><img src="2017_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_08.JPG" data-lightbox="abc"><img src="2017_08.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_09.JPG" data-lightbox="abc"><img src="2017_09.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_10.JPG" data-lightbox="abc"><img src="2017_10.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_11.JPG" data-lightbox="abc"><img src="2017_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_12.JPG" data-lightbox="abc"><img src="2017_12.JPG" alt="サンプル画像" width="360" /></a>
+<a href="2017_13.JPG" data-lightbox="abc"><img src="2017_13.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_14.JPG" data-lightbox="abc"><img src="2017_14.JPG" alt="サンプル画像" width="180" /></a>	
+<a href="2017_15.JPG" data-lightbox="abc"><img src="2017_15.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_16.JPG" data-lightbox="abc"><img src="2017_16.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_17.JPG" data-lightbox="abc"><img src="2017_17.JPG" alt="サンプル画像" width="180" /></a>
 
 </div>
 
@@ -88,13 +87,13 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2016年12月3日、河口湖 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンで戻れます。</span></h3>
-<a href="2016_01.JPG" class="preview"><img src="2016_01.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="2016_02.JPG" class="preview"><img src="2016_02.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2016_03.JPG" class="preview"><img src="2016_03.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2016_04.JPG" class="preview"><img src="2016_04.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2016_05.JPG" class="preview"><img src="2016_05.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2016_06.JPG" class="preview"><img src="2016_06.JPG" alt="サンプル画像" width="180" /></a>
+<h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
+<a href="2016_01.JPG" data-lightbox="abc"><img src="2016_01.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="2016_02.JPG" data-lightbox="abc"><img src="2016_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2016_03.JPG" data-lightbox="abc"><img src="2016_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2016_04.JPG" data-lightbox="abc"><img src="2016_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2016_05.JPG" data-lightbox="abc"><img src="2016_05.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2016_06.JPG" data-lightbox="abc"><img src="2016_06.JPG" alt="サンプル画像" width="180" /></a>
 	
 </div>
 
@@ -104,31 +103,31 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2015年11月28日、忘年会 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンで戻れます。</span></h3>
-<a href="2015_06.JPG" class="preview"><img src="2015_06.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="2015_02.JPG" class="preview"><img src="2015_02.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_03.JPG" class="preview"><img src="2015_03.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_04.JPG" class="preview"><img src="2015_04.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_05.JPG" class="preview"><img src="2015_05.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_01.JPG" class="preview"><img src="2015_01.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_07.JPG" class="preview"><img src="2015_07.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_08.JPG" class="preview"><img src="2015_08.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_09.JPG" class="preview"><img src="2015_09.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_10.JPG" class="preview"><img src="2015_10.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_11.JPG" class="preview"><img src="2015_11.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_12.JPG" class="preview"><img src="2015_12.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_13.JPG" class="preview"><img src="2015_13.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_14.JPG" class="preview"><img src="2015_14.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_15.JPG" class="preview"><img src="2015_15.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_16.JPG" class="preview"><img src="2015_16.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_17.JPG" class="preview"><img src="2015_17.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_18.JPG" class="preview"><img src="2015_18.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_19.JPG" class="preview"><img src="2015_19.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_20.JPG" class="preview"><img src="2015_20.JPG" alt="サンプル画像" width="110" /></a>
-<a href="2015_21.JPG" class="preview"><img src="2015_21.JPG" alt="サンプル画像" width="110" /></a>
-<a href="2015_22.JPG" class="preview"><img src="2015_22.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_23.JPG" class="preview"><img src="2015_23.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_24.JPG" class="preview"><img src="2015_24.JPG" alt="サンプル画像" width="180" /></a>
+<h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
+<a href="2015_06.JPG" data-lightbox="abc"><img src="2015_06.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="2015_02.JPG" data-lightbox="abc"><img src="2015_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_03.JPG" data-lightbox="abc"><img src="2015_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_04.JPG" data-lightbox="abc"><img src="2015_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_05.JPG" data-lightbox="abc"><img src="2015_05.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_01.JPG" data-lightbox="abc"><img src="2015_01.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_07.JPG" data-lightbox="abc"><img src="2015_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_08.JPG" data-lightbox="abc"><img src="2015_08.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_09.JPG" data-lightbox="abc"><img src="2015_09.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_10.JPG" data-lightbox="abc"><img src="2015_10.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_11.JPG" data-lightbox="abc"><img src="2015_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_12.JPG" data-lightbox="abc"><img src="2015_12.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_13.JPG" data-lightbox="abc"><img src="2015_13.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_14.JPG" data-lightbox="abc"><img src="2015_14.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_15.JPG" data-lightbox="abc"><img src="2015_15.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_16.JPG" data-lightbox="abc"><img src="2015_16.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_17.JPG" data-lightbox="abc"><img src="2015_17.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_18.JPG" data-lightbox="abc"><img src="2015_18.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_19.JPG" data-lightbox="abc"><img src="2015_19.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_20.JPG" data-lightbox="abc"><img src="2015_20.JPG" alt="サンプル画像" width="110" /></a>
+<a href="2015_21.JPG" data-lightbox="abc"><img src="2015_21.JPG" alt="サンプル画像" width="110" /></a>
+<a href="2015_22.JPG" data-lightbox="abc"><img src="2015_22.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_23.JPG" data-lightbox="abc"><img src="2015_23.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2015_24.JPG" data-lightbox="abc"><img src="2015_24.JPG" alt="サンプル画像" width="180" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UvOvUs8GoAc
 " target="_blank"><img src="http://img.youtube.com/vi/UvOvUs8GoAc/0.jpg" 
@@ -145,21 +144,21 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2013年11月30日、熱海 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大します。ブラウザの戻るボタンで戻れます。</span></h3>
-<a href="2013_01.JPG" class="preview"><img src="2013_01.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="2013_02.JPG" class="preview"><img src="2013_02.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2013_03.JPG" class="preview"><img src="2013_03.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2013_04.JPG" class="preview"><img src="2013_04.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2013_05.JPG" class="preview"><img src="2013_05.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2013_06.JPG" class="preview"><img src="2013_06.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2013_07.JPG" class="preview"><img src="2013_07.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2013_08.JPG" class="preview"><img src="2013_08.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2013_09.JPG" class="preview"><img src="2013_09.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2013_10.JPG" class="preview"><img src="2013_10.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2013_11.JPG" class="preview"><img src="2013_11.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2013_12.JPG" class="preview"><img src="2013_12.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2013_13.JPG" class="preview"><img src="2013_13.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2013_14.JPG" class="preview"><img src="2013_14.JPG" alt="サンプル画像" width="180" /></a>
+<h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
+<a href="2013_01.JPG" data-lightbox="abc"><img src="2013_01.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="2013_02.JPG" data-lightbox="abc"><img src="2013_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_03.JPG" data-lightbox="abc"><img src="2013_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_04.JPG" data-lightbox="abc"><img src="2013_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_05.JPG" data-lightbox="abc"><img src="2013_05.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_06.JPG" data-lightbox="abc"><img src="2013_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_07.JPG" data-lightbox="abc"><img src="2013_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_08.JPG" data-lightbox="abc"><img src="2013_08.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_09.JPG" data-lightbox="abc"><img src="2013_09.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_10.JPG" data-lightbox="abc"><img src="2013_10.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_11.JPG" data-lightbox="abc"><img src="2013_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_12.JPG" data-lightbox="abc"><img src="2013_12.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_13.JPG" data-lightbox="abc"><img src="2013_13.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2013_14.JPG" data-lightbox="abc"><img src="2013_14.JPG" alt="サンプル画像" width="180" /></a>
 
 
 </div>
@@ -181,6 +180,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 </div>
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
 
 <br><br>
 
