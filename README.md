@@ -169,9 +169,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 <br><br><br><br><br>	
-<section><h2>
+<section><h2><span class="yellow">
  <a href="https://torokoid.github.io/seisan-2/" target="_blank">会計計算、名前と金額の入力で割り勘計算が出来ます！</a>
-  </h2>  </section>
+	</span></h2>  </section>
 
 
 
