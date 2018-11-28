@@ -66,6 +66,10 @@ body::before {
 0555-62-0603<br>
 山梨県南都留郡山中湖村平野2468-1 <br><br>
 <a href="https://tabelog.com/yamanashi/A1903/A190302/19000519/" target="_blank">パルコ　デル　チェロ　HPリンク</a></span></h2>
+<br><br>
+<h2><span class="white"><br>車の台数<br>
+	稲垣、麿、のび太、一郎、貴志、羽田の６台<br>
+	
 
 <br><br>
 <br><br><br><br><br>
