@@ -68,8 +68,8 @@ body::before {
 <a href="https://tabelog.com/yamanashi/A1903/A190302/19000519/" target="_blank">パルコ　デル　チェロ　HPリンク</a></span></h2>
 <h2><span class="blue">サラダ、パスタ、ピザなどで税込2,000円で２１人なので貸切です。<br>コーヒーを付けると＋300円です。
 	<br><br>
-車の台数は以下の６台<br>
-	稲垣、麿、のび太、一郎、貴志、羽田<br>
+車の台数は以下の7台<br>
+	股さん、稲垣、麿、のび太、一郎、貴志、羽田<br>
 	</span></h2>
 
 <br><br>
