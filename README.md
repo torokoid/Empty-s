@@ -69,10 +69,9 @@ body::before {
 <br><br>
 <h2><span class="white"><br>車の台数<br>
 	稲垣、麿、のび太、一郎、貴志、羽田の６台<br>
-	
+	</span></h2>
 
 <br><br>
-<br><br><br><br><br>
 
 <!--
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
