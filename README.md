@@ -56,7 +56,41 @@ body::before {
 <p align="right">2015、忘年会</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-	
+
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2018年12月8日、河口湖 !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<a>当日の集合場所と時間をメモしておきます。・・・LINE連絡網から
+	ランチの予約しました。車は店の反対側の閉店中の田村亭の駐車場に停めて下さい、との事です。１２時にここに集合です。
+パルコ デル チェロ
+0555-62-0603
+山梨県南都留郡山中湖村平野2468-1 
+<a href="https://tabelog.com/yamanashi/A1903/A190302/19000519/" target="_blank">パルコ　デル　チェロ　HP</a>
+<!--
+<h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
+<a href="2017_01.JPG" data-lightbox="abc"><img src="2017_01.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="2017_02.JPG" data-lightbox="abc"><img src="2017_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_03.JPG" data-lightbox="abc"><img src="2017_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_04.JPG" data-lightbox="abc"><img src="2017_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_05.JPG" data-lightbox="abc"><img src="2017_05.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_06.JPG" data-lightbox="abc"><img src="2017_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_07.JPG" data-lightbox="abc"><img src="2017_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_08.JPG" data-lightbox="abc"><img src="2017_08.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_09.JPG" data-lightbox="abc"><img src="2017_09.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_10.JPG" data-lightbox="abc"><img src="2017_10.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_11.JPG" data-lightbox="abc"><img src="2017_11.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_12.JPG" data-lightbox="abc"><img src="2017_12.JPG" alt="サンプル画像" width="360" /></a>
+<a href="2017_13.JPG" data-lightbox="abc"><img src="2017_13.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_14.JPG" data-lightbox="abc"><img src="2017_14.JPG" alt="サンプル画像" width="180" /></a>	
+<a href="2017_15.JPG" data-lightbox="abc"><img src="2017_15.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_16.JPG" data-lightbox="abc"><img src="2017_16.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2017_17.JPG" data-lightbox="abc"><img src="2017_17.JPG" alt="サンプル画像" width="180" /></a>
+-->
+</div>
+
+<br><br>
+<br><br><br><br><br>
+
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2017年12月2日、河口湖 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
