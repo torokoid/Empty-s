@@ -59,12 +59,12 @@ body::before {
 
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2018年12月8日、河口湖 !!!</marquee></span></h2>
 <div id="wrap">
-<div style="background-color:rgb(255,255,255,0.3);">
+<div style="background-color:rgb(0,255,0,0.3);">
 <h2><span class="white">当日の集合場所と時間をメモしておきます。・・・股さん＠LINE連絡網<br>
 	ランチの予約しました。車は店の反対側の閉店中の田村亭の駐車場に停めて下さい、との事です。１２時にここに集合です。<br>
-パルコ デル チェロ
-0555-62-0603
-山梨県南都留郡山中湖村平野2468-1 
+パルコ デル チェロ<br>
+0555-62-0603<br>
+山梨県南都留郡山中湖村平野2468-1 <br>
 <a href="https://tabelog.com/yamanashi/A1903/A190302/19000519/" target="_blank">パルコ　デル　チェロ　HPリンク</a></span></h2>
 
 <br><br>
