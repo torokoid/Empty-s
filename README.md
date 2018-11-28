@@ -30,7 +30,12 @@ font-size: 1.5em;
 	text-align: center;
 }
 
-
+/*Safariだけに適用される新型CSSハック*/
+_::-webkit-full-page-media, _:future, :root .css_selector {
+position: absolute;
+top: 15px;
+text-align: center;
+}
 
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
