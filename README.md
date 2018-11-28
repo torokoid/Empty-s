@@ -61,13 +61,13 @@ body::before {
 <div id="wrap">
 -->
 <div style="background-color:rgb(0,255,0,0.8);">
-<h2><span class="blue"><br>当日の集合場所と時間をメモしておきます。・・・by股さん＠LINE連絡網<br><br>
+<h2><span class="white"><br>当日の集合場所と時間をメモしておきます。・・・by股さん＠LINE連絡網<br><br>
 	ランチの予約しました。<br>車は店の反対側の閉店中の田村亭の駐車場に停めて下さい、との事です。<br>１２時にここに集合です。<br><br>
 パルコ デル チェロ<br>
 0555-62-0603<br>
 山梨県南都留郡山中湖村平野2468-1 <br><br>
 <a href="https://tabelog.com/yamanashi/A1903/A190302/19000519/" target="_blank">パルコ　デル　チェロ　HPリンク</a></span></h2>
-<h2><span class="blue">サラダ、パスタ、ピザなどで税込2,000円で２１人なので貸切です。<br>コーヒーを付けると＋300円です。
+<h2><span class="white">サラダ、パスタ、ピザなどで税込2,000円で２１人なので貸切です。<br>コーヒーを付けると＋300円です。
 	<br><br>
 車の台数は以下の9台<br>
 	股さん、稲垣、麿、ノブ、吉野、キミ、一郎、貴志、羽田<br>
