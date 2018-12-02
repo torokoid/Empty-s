@@ -51,7 +51,7 @@ body::before {
    
 </head>
 <body>
-<span position="righit"> <img src="qr.png" alt="アクセス用QRコード" width="100"></span>
+<p align="right"> <img src="qr.png" alt="アクセス用QRコード" width="100"></p>
 <h1><span class="yellow"><marquee behavior="alternate">!!! Empty's & Lepression's !!!</marquee></span></h1>
 <p align="right">2015、忘年会</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
