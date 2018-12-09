@@ -77,6 +77,7 @@ body::before {
 
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
 <a href="20181208_11.JPG" data-lightbox="abc"><img src="20181208_11.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="20181208_01.JPG" data-lightbox="abc"><img src="20181208_01.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181208_02.JPG" data-lightbox="abc"><img src="20181208_02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181208_03.JPG" data-lightbox="abc"><img src="20181208_03.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181208_04.JPG" data-lightbox="abc"><img src="20181208_04.JPG" alt="サンプル画像" width="180" /></a>
@@ -86,7 +87,6 @@ body::before {
 <a href="20181208_08.JPG" data-lightbox="abc"><img src="20181208_08.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181208_09.JPG" data-lightbox="abc"><img src="20181208_09.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181208_10.JPG" data-lightbox="abc"><img src="20181208_10.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181208_01.JPG" data-lightbox="abc"><img src="20181208_01.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181208_12.JPG" data-lightbox="abc"><img src="20181208_12.JPG" alt="サンプル画像" width="100" /></a>
 <a href="20181208_13.JPG" data-lightbox="abc"><img src="20181208_13.JPG" alt="サンプル画像" width="100" /></a>
 <a href="20181208_14.JPG" data-lightbox="abc"><img src="20181208_14.JPG" alt="サンプル画像" width="180" /></a>
