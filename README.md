@@ -66,13 +66,13 @@ body::before {
 パルコ デル チェロ<br>
 0555-62-0603<br>
 山梨県南都留郡山中湖村平野2468-1 <br><br>
-<a href="https://tabelog.com/yamanashi/A1903/A190302/19000519/" target="_blank">パルコ　デル　チェロ　HPリンク</a></span></h2>
-<h2><span class="white">サラダ、パスタ、ピザなどで税込2,000円で２１人なので貸切です。<br>コーヒーを付けると＋300円です。
+<a href="https://tabelog.com/yamanashi/A1903/A190302/19000519/" target="_blank">パルコ　デル　チェロ　HPリンク</a></span></h６>
+<h6><span class="white">サラダ、パスタ、ピザなどで税込2,000円で２１人なので貸切です。<br>コーヒーを付けると＋300円です。
 	<br><br>
 車の台数は以下の10台<br>
 	股さん、稲垣、麿、ノブ、吉野、キミ、一郎、貴志、羽田、ハバさん<br>
 	</span></h6>
-
+</div>
 <br><br>
 
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
@@ -106,7 +106,6 @@ body::before {
 <a href="20181208_28.JPG" data-lightbox="abc"><img src="20181208_28.JPG" alt="サンプル画像" width="100" /></a>
 <a href="20181208_29.JPG" data-lightbox="abc"><img src="20181208_29.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181208_30.JPG" data-lightbox="abc"><img src="20181208_30.JPG" alt="サンプル画像" width="180" /></a>
-</div>
 
 <br><br>
 <br><br><br><br><br>
