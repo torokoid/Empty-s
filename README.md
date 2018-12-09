@@ -143,7 +143,7 @@ body::before {
 <br><br>
 <br><br><br><br><br>
 
-<h2><span class="yellow"><marquee behavior="alternate">!!! 2015年11月28日、 hakone忘年会 !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2015年11月28日、箱根  !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。動画は別クリックしてくださいね～( ^^) _U~~ </span></h3>
