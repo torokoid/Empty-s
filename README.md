@@ -106,7 +106,19 @@ body::before {
 <a href="20181208_28.JPG" data-lightbox="abc"><img src="20181208_28.JPG" alt="サンプル画像" width="100" /></a>
 <a href="20181208_29.JPG" data-lightbox="abc"><img src="20181208_29.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181208_30.JPG" data-lightbox="abc"><img src="20181208_30.JPG" alt="サンプル画像" width="180" /></a>
-
+<h3><span class="white">↓ ここからLINE共有画像。</span></h3>
+<a href="20181208_31.JPG" data-lightbox="abc"><img src="20181208_31.JPG" alt="サンプル画像" width="100" /></a>
+<a href="20181208_32.JPG" data-lightbox="abc"><img src="20181208_32.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181208_33.JPG" data-lightbox="abc"><img src="20181208_33.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181208_34.JPG" data-lightbox="abc"><img src="20181208_34.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181208_35.JPG" data-lightbox="abc"><img src="20181208_35.JPG" alt="サンプル画像" width="100" /></a>
+<a href="20181208_36.JPG" data-lightbox="abc"><img src="20181208_36.JPG" alt="サンプル画像" width="100" /></a>
+<a href="20181208_37.JPG" data-lightbox="abc"><img src="20181208_37.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181208_38.JPG" data-lightbox="abc"><img src="20181208_38.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181208_39.JPG" data-lightbox="abc"><img src="20181208_39.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181208_40.JPG" data-lightbox="abc"><img src="20181208_40.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181208_41.JPG" data-lightbox="abc"><img src="20181208_41.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20181208_42.JPG" data-lightbox="abc"><img src="20181208_42.JPG" alt="サンプル画像" width="180" /></a>
 <br><br>
 <br><br><br><br><br>
 
