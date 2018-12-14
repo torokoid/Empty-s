@@ -19,7 +19,7 @@ font-size: 1.5em;
 　　　　　　line-height: 200%;
 　　　　　　padding: 10px;}
  -->
-	
+
  #preview{
 	position: relative;
 	border: 3px solid #333;
