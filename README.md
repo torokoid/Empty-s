@@ -63,7 +63,7 @@ body::before {
 <!--
 <div id="wrap">
 -->
-<div style="background-color:rgb(0,255,0,0.8);">
+<div>
 <section><<h6><span class="white"><br>当日の集合場所と時間をメモしておきます。・・・by股さん＠LINE連絡網<br><br>
 	ランチの予約しました。<br>車は店の反対側の閉店中の田村亭の駐車場に停めて下さい、との事です。<br>１２時にここに集合です。<br><br>
 パルコ デル チェロ<br>
