@@ -60,9 +60,7 @@ body::before {
 <p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2018年12月8日、河口湖 !!!</marquee></span></h2>
-<!--
-<div id="wrap">
--->
+
 <div>
 <section><<h6><span class="white">当日の集合場所と時間をメモしておきます。・・・by股さん＠LINE連絡網<br><br>
 	ランチの予約しました。<br>車は店の反対側の閉店中の田村亭の駐車場に停めて下さい、との事です。<br>１２時にここに集合です。<br><br>
