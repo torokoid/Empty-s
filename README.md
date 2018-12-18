@@ -31,7 +31,8 @@ font-size: 1.5em;
 }
 
 section {
-background-color:-webkit-rgb(0,255,0,0.8);
+background-color: rgb(0,255,0,0.8);
+background-color: rgba(0, 225, 0, 224);
 }
 
 #wrap {background:none} /*PC用の背景はオフ*/
