@@ -30,6 +30,9 @@ font-size: 1.5em;
 	text-align: center;
 }
 
+section {
+background-color:rgb(0,255,0,0.8);
+}
 
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
@@ -61,7 +64,7 @@ body::before {
 <div id="wrap">
 -->
 <div style="background-color:rgb(0,255,0,0.8);">
-<h6><span class="white"><br>当日の集合場所と時間をメモしておきます。・・・by股さん＠LINE連絡網<br><br>
+<section><<h6><span class="white"><br>当日の集合場所と時間をメモしておきます。・・・by股さん＠LINE連絡網<br><br>
 	ランチの予約しました。<br>車は店の反対側の閉店中の田村亭の駐車場に停めて下さい、との事です。<br>１２時にここに集合です。<br><br>
 パルコ デル チェロ<br>
 0555-62-0603<br>
@@ -71,7 +74,7 @@ body::before {
 	<br><br>
 車の台数は以下の10台<br>
 	股さん、稲垣、麿、ノブ、吉野、キミ、一郎、貴志、羽田、ハバさん（バイク）<br>
-	</span></h6>
+	</span></h6></section>
 </div>
 <br><br>
 
