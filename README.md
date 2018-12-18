@@ -61,7 +61,7 @@ body::before {
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2018年12月8日、河口湖 !!!</marquee></span></h2>
 
-<div>
+
 <section><<h6><span class="white">当日の集合場所と時間をメモしておきます。・・・by股さん＠LINE連絡網<br><br>
 	ランチの予約しました。<br>車は店の反対側の閉店中の田村亭の駐車場に停めて下さい、との事です。<br>１２時にここに集合です。<br><br>
 パルコ デル チェロ<br>
@@ -73,7 +73,7 @@ body::before {
 車の台数は以下の10台<br>
 	股さん、稲垣、麿、ノブ、吉野、キミ、一郎、貴志、羽田、ハバさん（バイク）<br>
 	</span></h6></section>
-</div>
+
 <br><br>
 
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
@@ -235,9 +235,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 <br><br><br><br><br>	
-<section><h2><span class="yellow">
+<h2><span class="yellow">
  <a href="https://torokoid.github.io/seisan-3/" target="_blank">会計計算、名前と金額の入力で割り勘計算が出来ます！</a>
-	</span></h2>  </section>
+	</span></h2>
 
 
 
