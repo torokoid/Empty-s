@@ -120,7 +120,7 @@ body::before {
 <a href="20181208_40.JPG" data-lightbox="abc"><img src="20181208_40.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181208_41.JPG" data-lightbox="abc"><img src="20181208_41.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20181208_42.JPG" data-lightbox="abc"><img src="20181208_42.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20181208.JPG" data-lightbox="abc"><img src="20181208.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20181208.JPG" data-lightbox="abc"><img src="20181208.JPG" alt="サンプル画像" width="220" /></a>
 <br><br>
 <br><br><br><br><br>
 
