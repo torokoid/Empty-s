@@ -53,7 +53,7 @@ body::before {
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
    
 </head>
-<body onload="alert('Empty's & Lepression's、忘年会の記録へようこそ！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ。またやりましょう〜(^o^)/')">
+<body onload="alert('エンプティーズ と レプレッションズ、忘年会の記録へようこそ！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ。またやりましょう〜(^o^)/')">
 <h1><span class="yellow"><marquee behavior="alternate">!!! Empty's & Lepression's !!!</marquee></span></h1>
 <p align="right">2018、河口湖忘年会</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
