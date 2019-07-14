@@ -59,6 +59,16 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2019年12月7日、軽井沢 !!!</marquee></span></h2>
+
+<section><h6><span class="white"><br>当日の観光ポイントをメモしておきます。・・・by股さん＠LINE連絡網<br><br>
+今回は碓氷峠のメガネ橋を散策したいと思っていますがどうですか？
+http://www.annaka-city.com/history/01.htm
+	</span></h6></section>
+
+<br><br>
+<br><br><br><br><br>
+
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2018年12月8日、河口湖 !!!</marquee></span></h2>
 
 
