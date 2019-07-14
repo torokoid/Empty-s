@@ -61,7 +61,7 @@ body::before {
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2019年12月7日、軽井沢 !!!</marquee></span></h2>
 
-<section><h4><span class="white"><br>今年も股さんに予約してもらいました。<br>
+<section><h4><span class="red">2019年進捗</span><span class="white"><br>今年も股さんに予約してもらいました。<br>
 	部屋はコネクション館のメゾネットタイプを予約！<br>
 	<a href="https://www.hgp.co.jp/inf/Z10/hgp/facilities.html" target="_blank">グリーンプラザホテル軽井沢HPリンク</a>
 	<br>
