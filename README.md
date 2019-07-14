@@ -61,10 +61,10 @@ body::before {
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2019年12月7日、軽井沢 !!!</marquee></span></h2>
 
-<section><h6><span class="white"><br>当日の観光ポイントをメモしておきます。・・・by股さん＠LINE連絡網<br><br>
+<section><h4><span class="white"><br>当日の観光ポイントをメモしておきます。・・・by股さん＠LINE連絡網<br><br>
 今回は碓氷峠のメガネ橋を散策したいと思っていますがどうですか？<br>
-<a href="http://www.annaka-city.com/history/01.htm" target="_blank">観光案内リンク</a>
-	<br></span></h6></section>
+<a href="http://www.annaka-city.com/history/01.htm" target="_blank">めがね橋、観光案内リンク</a>
+	<br></span></h4></section>
 
 <br><br>
 <br><br><br><br><br>
