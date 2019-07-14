@@ -48,11 +48,22 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
 
+@media	screen and (min-width: 540px),
+	screen and (orientation: landscape) {
+   p.note { display: none; }
+}
+
+
+
 </style> 
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
    
 </head>
+<p class="note">
+  モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
+</p>
+
 <body onload="alert('エンプティーズ と レプレッションズ、忘年会の記録へようこそ！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ。またやりましょう〜(^o^)/')">
 <h1><span class="yellow"><marquee behavior="alternate">!!! Empty's & Lepression's !!!</marquee></span></h1>
 <p align="right">2018、河口湖忘年会</p>
