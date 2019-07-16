@@ -84,8 +84,9 @@ body::before {
 <p>Map</p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d358549.04223923176!2d138.43945655381694!3d36.49051996032853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5c85c473b82a0465!2sHotel+Green+Plaza+Karuizawa!5e0!3m2!1sen!2sjp!4v1563186883776!5m2!1sen!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-<script language="javascript" charset="euc-jp" type="text/javascript" src="http://weather.livedoor.com/plugin/common/forecast/10.js"></script>
-
+<!--ウェザーニュースブログパーツ-->
+<div id="weathernews_blog_parts"></div><script type="text/javascript">document.write('<scr' + 'ipt type="text/javascript" src="http://weathernews.jp/blog/js/blog.js?' + (new Date().valueOf()) + '"></scr' + 'ipt>');</script><script type="text/javascript">// <![CDATA[
+wni_blog('blog/forecast:centeredOn=33',200,33,true);// ]]></script>
 
 <br><br>
 <br><br><br><br><br>
