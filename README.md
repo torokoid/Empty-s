@@ -86,7 +86,6 @@ body::before {
 
 <script language="javascript" charset="euc-jp" type="text/javascript" src="http://weather.livedoor.com/plugin/common/forecast/19.js"></script>
 
-
 <br><br>
 <br><br><br><br><br>
 
