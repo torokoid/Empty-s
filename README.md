@@ -72,7 +72,7 @@ body::before {
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2019年12月7日、軽井沢 → いつもの河口湖に変更!!!</marquee></span></h2>
 
-<section><h4><span class="red">2019年進捗</span><span class="white"><br>今年も股さんに予約してもらいました。・・・以下は変更済み。<br>
+<section><h4><span class="red">2019年進捗、11月8日時点</span><span class="white"><br>今年も股さんに予約してもらいました。・・・以下は変更済み。<br>
 	ショージ、ニシムラ欠席残念です。また佐藤も都合が合わず欠席です。<br>
 さて忘年会ですが、１２月７日８日の土日、河口湖カントリーコテージバーンです。<br>
 集合は１昨年と同じ吉田うどんのお店、たけかわうどんに７日午後１時です。<br>
@@ -80,7 +80,7 @@ body::before {
 夜は鍋で朝はカレーの予定です。鍋はすき焼きはどうですか？誰かすき焼き用の鍋を誰か持って来てくれれば可能です。<br>
 	その他シャブシャブ、水炊き、チゲ鍋などを考えています。<br>
 出欠は１７日ごろまでにお知らせください。・・・by股さん＠LINE連絡網<br>
-<a href="http://www.annaka-city.com/history/01.htm" target="_blank">めがね橋、観光案内リンク</a>
+
 	<br></span></h4></section>
 
 <p>待ち合わせ場所、「たけかわうどん」Map</p>
