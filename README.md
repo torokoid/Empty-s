@@ -44,7 +44,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/Empty-s/20181208.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/Empty-s/20191208.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -66,11 +66,15 @@ body::before {
 
 <body onload="alert('エンプティーズ と レプレッションズ、忘年会の記録へようこそ！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ。またやりましょう〜(^o^)/')">
 <h1><span class="yellow"><marquee behavior="alternate">!!! Empty's & Lepression's !!!</marquee></span></h1>
-<p align="right">2018、河口湖忘年会</p>
+<p align="right">2019、河口湖忘年会</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2019年12月7日、軽井沢 → いつもの河口湖に変更!!!</marquee></span></h2>
+	
+<h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
+<a href="20191208_063.JPG" data-lightbox="abc"><img src="20191208_063.JPG" alt="サンプル画像" width="800" /></a>
+<a href="20191208_064.JPG" data-lightbox="abc"><img src="20191208_064.JPG" alt="サンプル画像" width="800" /></a>
 
 <section><h4><span class="red">2019年進捗、12月5日時点</span><span class="white"><br>今年も股さんに予約してもらいました。・・・以下は変更済み。<br>	ショージ、ニシムラ欠席残念です。また佐藤も都合が合わず欠席です。<br>
 さて忘年会ですが、１２月７日８日の土日、河口湖カントリーコテージバーンです。<br>
