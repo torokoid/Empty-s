@@ -90,7 +90,7 @@ body::before {
 <a href="20191208_080.JPG" data-lightbox="abc"><img src="20191208_080.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20191208_081.JPG" data-lightbox="abc"><img src="20191208_081.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20191208_082.JPG" data-lightbox="abc"><img src="20191208_082.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20191208_083.JPG" data-lightbox="abc"><img src="20191208_083.JPG" alt="サンプル画像" width="180" /></a>
+<a href="20191208_083.JPG" data-lightbox="abc"><img src="20191208_083.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191208_084.JPG" data-lightbox="abc"><img src="20191208_084.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20191208_085.JPG" data-lightbox="abc"><img src="20191208_085.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20191208_086.JPG" data-lightbox="abc"><img src="20191208_086.JPG" alt="サンプル画像" width="180" /></a>
