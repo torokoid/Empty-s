@@ -118,6 +118,9 @@ body::before {
 <a href="20191208_119.JPG" data-lightbox="abc"><img src="20191208_119.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191208_121.JPG" data-lightbox="abc"><img src="20191208_121.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="white">富士山の夜明け、タイムラプス</span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m6d5egh4iXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <section><h4><span class="red">2019年進捗、12月5日時点</span><span class="white"><br>今年も股さんに予約してもらいました。・・・以下は変更済み。<br>	ショージ、ニシムラ欠席残念です。また佐藤も都合が合わず欠席です。<br>
 さて忘年会ですが、１２月７日８日の土日、河口湖カントリーコテージバーンです。<br>
 先ほど稲から参加出来なくなった、とのメールがありました。<br>
