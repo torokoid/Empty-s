@@ -70,6 +70,19 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+	
+	
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2020年12月5日、いつもの河口湖!!!</marquee></span></h2>
+	
+<h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
+<section><h4><span class="red">2020年進捗、6月7日時点</span><span class="white"><br>今年も股さんに予約してもらいました。
+<a href="20191208_066.JPG" data-lightbox="abc"><img src="20191208_066.JPG" alt="サンプル画像" width="900" /></a>
+
+</span></h4></section>
+
+
+<br><br><br><br><br><br><br>
+
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2019年12月7日、軽井沢 → いつもの河口湖に変更!!!</marquee></span></h2>
 	
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
