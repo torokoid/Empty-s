@@ -76,7 +76,12 @@ body::before {
 	
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
 <section><h4><span class="red">2020年進捗、6月7日時点</span><span class="white"><br>今年も股さんに予約してもらいました。
-<a href="20191208_066.JPG" data-lightbox="abc"><img src="20191208_066.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20200527_01.png" data-lightbox="abc"><img src="20200527_01.png" alt="サンプル画像" width="900" /></a>
+<a href="20200527_02.png" data-lightbox="abc"><img src="20200527_02.png" alt="サンプル画像" width="900" /></a>
+<a href="20200527_03.png" data-lightbox="abc"><img src="20200527_03.png" alt="サンプル画像" width="900" /></a>
+<a href="20200527_04.png" data-lightbox="abc"><img src="20200527_04.png" alt="サンプル画像" width="900" /></a>
+<a href="20200601_01.png" data-lightbox="abc"><img src="20200601_01.png" alt="サンプル画像" width="900" /></a>
+<a href="20200607_01.png" data-lightbox="abc"><img src="20200607_01.png" alt="サンプル画像" width="900" /></a>
 
 </span></h4></section>
 
