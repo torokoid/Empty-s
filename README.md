@@ -268,9 +268,9 @@ body::before {
 <a href="2016_01.JPG" data-lightbox="abd"><img src="2016_01.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="2016_02.JPG" data-lightbox="abd"><img src="2016_02.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2016_03.JPG" data-lightbox="abd"><img src="2016_03.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2016_04.JPG" data-lightbox="abd"><img src="2016_04.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2016_05.JPG" data-lightbox="abd"><img src="2016_05.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2016_06.JPG" data-lightbox="abd"><img src="2016_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="2016_04.JPG" data-lightbox="abd"><img src="2016_04.JPG" alt="サンプル画像" width="900" /></a>
 	
 </div>
 
