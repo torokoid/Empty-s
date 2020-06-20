@@ -304,7 +304,6 @@ body::before {
 <a href="2015_21.JPG" data-lightbox="abe"><img src="2015_21.JPG" alt="サンプル画像" width="110" /></a>
 <a href="2015_22.JPG" data-lightbox="abe"><img src="2015_22.JPG" alt="サンプル画像" width="180" /></a>
 <a href="2015_23.JPG" data-lightbox="abe"><img src="2015_23.JPG" alt="サンプル画像" width="180" /></a>
-<a href="2015_24.JPG" data-lightbox="abe"><img src="2015_24.JPG" alt="サンプル画像" width="180" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UvOvUs8GoAc
 " target="_blank"><img src="http://img.youtube.com/vi/UvOvUs8GoAc/0.jpg" 
@@ -312,6 +311,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NC0FhvxvWfk
 " target="_blank"><img src="http://img.youtube.com/vi/NC0FhvxvWfk/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+<a href="2015_24.JPG" data-lightbox="abe"><img src="2015_24.JPG" alt="サンプル画像" width="900" /></a>
 
 </div>
 
