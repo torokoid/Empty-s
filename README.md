@@ -77,9 +77,9 @@ body::before {
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
 <section><h4><span class="red">2020年6月20日</span><span class="white"><br>ムッチ〜が昔の写真を披露しました。<br>
 以下、LINE会話</span></h4></section>
-<a href="20200602_001.png" data-lightbox="abc"><img src="20200620_001.png" alt="サンプル画像" width="900" /></a>
-<a href="20200602_002.png" data-lightbox="abc"><img src="20200620_002.png" alt="サンプル画像" width="900" /></a>
-<a href="20200602_003.JPG" data-lightbox="abc"><img src="20200620_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20200620_001.png" data-lightbox="abc"><img src="20200620_001.png" alt="サンプル画像" width="900" /></a>
+<a href="20200620_002.png" data-lightbox="abc"><img src="20200620_002.png" alt="サンプル画像" width="900" /></a>
+<a href="20200620_003.JPG" data-lightbox="abc"><img src="20200620_003.JPG" alt="サンプル画像" width="900" /></a>
 <br>
 <section><h4><span class="red">2020年進捗、6月7日時点</span><span class="white"><br>今年も股さんに予約してもらいました。<br>
 以下、LINE会話</span></h4></section>
