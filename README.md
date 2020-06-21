@@ -80,6 +80,7 @@ body::before {
 <a href="20200620_001.png" data-lightbox="abc"><img src="20200620_001.png" alt="サンプル画像" width="900" /></a>
 <a href="20200620_002.png" data-lightbox="abc"><img src="20200620_002.png" alt="サンプル画像" width="900" /></a>
 <a href="20200620_003.JPG" data-lightbox="abc"><img src="20200620_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="19850706_001.JPG" data-lightbox="abc"><img src="19850706_001.JPG" alt="サンプル画像" width="900" /></a>
 <br>
 <section><h4><span class="red">2020年進捗、6月7日時点</span><span class="white"><br>今年も股さんに予約してもらいました。<br>
 以下、LINE会話</span></h4></section>
