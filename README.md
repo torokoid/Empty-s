@@ -106,6 +106,9 @@ body::before {
 <a href="19850706_016.JPG" data-lightbox="abc"><img src="19850706_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="19850706_017.JPG" data-lightbox="abc"><img src="19850706_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="19850706_018.JPG" data-lightbox="abc"><img src="19850706_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="19850706_016.JPG" data-lightbox="abc"><img src="19850706_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="1979_001.JPG" data-lightbox="abc"><img src="1979_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="19850706_022.JPG" data-lightbox="abc"><img src="19850706_022.JPG" alt="サンプル画像" width="900" /></a>
 <br>
 <section><h4><span class="red">2020年進捗、6月7日時点</span><span class="white"><br>今年も股さんに予約してもらいました。<br>
 以下、LINE会話</span></h4></section>
