@@ -90,6 +90,8 @@ body::before {
 <a href="19850706_002.JPG" data-lightbox="abc"><img src="19850706_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="19850706_003.JPG" data-lightbox="abc"><img src="19850706_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="19850706_004.JPG" data-lightbox="abc"><img src="19850706_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="19850706_019.JPG" data-lightbox="abc"><img src="19850706_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="19850706_020.JPG" data-lightbox="abc"><img src="19850706_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="19850706_005.JPG" data-lightbox="abc"><img src="19850706_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="19850706_006.JPG" data-lightbox="abc"><img src="19850706_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="19850706_007.JPG" data-lightbox="abc"><img src="19850706_007.JPG" alt="サンプル画像" width="900" /></a>
