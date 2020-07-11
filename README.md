@@ -74,11 +74,11 @@ body::before {
 	
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2020年12月5日、いつもの河口湖!!!</marquee></span></h2>
 	
-<h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
+
 <section><h4><span class="red">2020年6月20日</span><span class="white"><br>ムッチ〜が昔の写真を披露しました。<br>
+LINE会話</span></h4></section>
 
 <!--
-以下、LINE会話</span></h4></section>
 <a href="20200620_001.png" data-lightbox="abc"><img src="20200620_001.png" alt="サンプル画像" width="900" /></a>
 <a href="20200620_002.png" data-lightbox="abc"><img src="20200620_002.png" alt="サンプル画像" width="900" /></a>
 <a href="20200621_001.png" data-lightbox="abc"><img src="20200621_001.png" alt="サンプル画像" width="900" /></a>
