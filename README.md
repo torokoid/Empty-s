@@ -75,8 +75,8 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2020年12月5日、いつもの河口湖!!!</marquee></span></h2>
 	
 
-<section><h4><span class="red">2020年6月20日</span><span class="white"><br>ムッチ〜が昔の写真を披露しました。<br>
-<a href="https://torokoid.github.io/Empty-s_LINE/">LINE会話</a></span></h4></section>
+<section><h4><span class="red">2020年6月20日</span><span class="white"><br>ムッチ〜が昔の写真を披露しました。
+<a href="https://torokoid.github.io/Empty-s_LINE/">写真リンク</a></span></h4></section>
 
 <!--
 <a href="20200620_001.png" data-lightbox="abc"><img src="20200620_001.png" alt="サンプル画像" width="900" /></a>
