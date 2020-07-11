@@ -76,7 +76,7 @@ body::before {
 	
 
 <section><h4><span class="red">2020年6月20日</span><span class="white"><br>ムッチ〜が昔の写真を披露しました。<br>
-LINE会話</span></h4></section>
+<a href="https://torokoid.github.io/Empty-s_LINE/">LINE会話</a></span></h4></section>
 
 <!--
 <a href="20200620_001.png" data-lightbox="abc"><img src="20200620_001.png" alt="サンプル画像" width="900" /></a>
