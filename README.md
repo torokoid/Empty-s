@@ -115,19 +115,19 @@ body::before {
 <br>
 -->
 
-<section><h4><span class="red">2020年進捗、6月7日時点</span><span class="white"><br>今年も股さんに予約してもらいました。<br>
-以下、LINE会話</span></h4></section>
+<section><h4><span class="red">2020年進捗、6月7日時点</span><span class="white"><br>今年も股さんに予約してもらいました。
+<a href="https://torokoid.github.io/Empty-s_LINE_2/">LINE会話へのリンク</a></span></h4></section>
+<!--
 <a href="20200527_01.png" data-lightbox="abc"><img src="20200527_01.png" alt="サンプル画像" width="900" /></a>
 <a href="20200527_02.png" data-lightbox="abc"><img src="20200527_02.png" alt="サンプル画像" width="900" /></a>
 <a href="20200527_03.png" data-lightbox="abc"><img src="20200527_03.png" alt="サンプル画像" width="900" /></a>
 <a href="20200527_04.png" data-lightbox="abc"><img src="20200527_04.png" alt="サンプル画像" width="900" /></a>
 <a href="20200601_01.png" data-lightbox="abc"><img src="20200601_01.png" alt="サンプル画像" width="900" /></a>
 <a href="20200607_01.png" data-lightbox="abc"><img src="20200607_01.png" alt="サンプル画像" width="900" /></a>
-
 <a href="LINE21.jpg" data-lightbox="abc"><img src="LINE21.jpg" alt="サンプル画像" width="900" /></a>
 <a href="LINE22.jpg" data-lightbox="abc"><img src="LINE22.jpg" alt="サンプル画像" width="900" /></a>
 <a href="LINE23.jpg" data-lightbox="abc"><img src="LINE23.jpg" alt="サンプル画像" width="900" /></a>
-
+-->
 
 
 <br><br><br><br><br><br><br>
