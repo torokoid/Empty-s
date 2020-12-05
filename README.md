@@ -72,7 +72,7 @@ body::before {
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
 	
-<h2><span class="yellow"><marquee behavior="alternate">!!! 2020年12月5日、いつもの河口湖!!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2020年12月5日、いつもの河口湖はコロナ影響で中止・・・代わりにLINE飲み会!!!</marquee></span></h2>
 	
 
 <section><h4><span class="red">2020年6月20日</span><span class="white"><br>ムッチ〜が昔の写真を披露しました。
