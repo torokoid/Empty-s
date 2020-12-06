@@ -74,6 +74,8 @@ body::before {
 	
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2020年12月5日、いつもの河口湖はコロナ影響で中止・・・代わりにLINE飲み会!!!</marquee></span></h2>
 	
+<section><h4><span class="red">2020年12月5日</span><span class="white"><br>OnLine飲み会開催
+<a href="https://torokoid.github.io/Empty-s_LINE_3/">写真リンク</a></span></h4></section>
 
 <section><h4><span class="red">2020年6月20日</span><span class="white"><br>ムッチ〜が昔の写真を披露しました。
 <a href="https://torokoid.github.io/Empty-s_LINE/">写真リンク</a></span></h4></section>
