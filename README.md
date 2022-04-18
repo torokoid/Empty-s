@@ -83,7 +83,8 @@ body::before {
 <a href="20220416_005.jpg" data-lightbox="abc"><img src="20220416_005.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20220416_006.png" data-lightbox="abc"><img src="20220416_006.png" alt="サンプル画像" width="900" /></a>
 <a href="20220416_007.png" data-lightbox="abc"><img src="20220416_007.png" alt="サンプル画像" width="900" /></a>	
-	
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2020年12月5日、いつもの河口湖はコロナ影響で中止・・・代わりにLINE飲み会!!!</marquee></span></h2>
 	
