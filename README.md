@@ -72,6 +72,18 @@ body::before {
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
 	
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2022年4月16日、東海林の中国再赴任壮行会＠銀座!!!</marquee></span></h2>
+	
+<h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>	
+
+<a href="20220416_001.jpg" data-lightbox="abc"><img src="20220416_001.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20220416_002.jpg" data-lightbox="abc"><img src="20220416_002.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20220416_003.jpg" data-lightbox="abc"><img src="20220416_003.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20220416_004.jpg" data-lightbox="abc"><img src="20220416_004.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20220416_005.jpg" data-lightbox="abc"><img src="20220416_005.jpg" alt="サンプル画像" width="900" /></a>
+	
+	
+	
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2020年12月5日、いつもの河口湖はコロナ影響で中止・・・代わりにLINE飲み会!!!</marquee></span></h2>
 	
 <section><h4><span class="red">2020年12月5日</span><span class="white"><br>OnLine飲み会開催
